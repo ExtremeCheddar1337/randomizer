@@ -1,0 +1,76 @@
+[2024-10-25 12:27:01.876] [modengine] [info] Attempting to load global config at C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer\diste\ModEngine\modengine2\config.toml
+[2024-10-25 12:27:01.876] [modengine] [info] Attempting to load mod settings config at C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer\config_eldenringrandomizer_dll.toml
+[2024-10-25 12:27:01.881] [modengine] [info] Local config loaded
+[2024-10-25 12:27:01.881] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-10-25 12:27:01.881] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-10-25 12:27:01.881] [modengine] [info] Main thread ID: 34176
+[2024-10-25 12:27:01.884] [modengine] [info] Loaded external DLL C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\SeamlessCoop\ersc.dll
+[2024-10-25 12:27:04.073] [modengine] [info] Enabling extension base
+[2024-10-25 12:27:04.074] [modengine] [info] Enabled extension base
+[2024-10-25 12:27:04.074] [modengine] [info] Enabling extension mod_loader
+[2024-10-25 12:27:04.074] [modengine] [info] Installing mod location C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer
+[2024-10-25 12:27:04.074] [modengine] [info] Resolved mod path to C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer
+[2024-10-25 12:27:04.074] [modengine] [info] Installing mod location C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\mod
+[2024-10-25 12:27:04.074] [modengine] [info] Resolved mod path to C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\mod
+[2024-10-25 12:27:04.074] [modengine] [info] Enabled extension mod_loader
+[2024-10-25 12:27:04.103] [modengine] [info] Applied 3 hooks
+[2024-10-25 12:27:04.107] [modengine] [info] Starting worker thread
+[2024-10-25 16:57:33.409] [modengine] [info] Attempting to load global config at C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer\diste\ModEngine\modengine2\config.toml
+[2024-10-25 16:57:33.410] [modengine] [info] Attempting to load mod settings config at C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer\config_eldenringrandomizer.toml
+[2024-10-25 16:57:33.411] [modengine] [info] Local config loaded
+[2024-10-25 16:57:33.411] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-10-25 16:57:33.411] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-10-25 16:57:33.411] [modengine] [info] Main thread ID: 6872
+[2024-10-25 16:57:33.413] [modengine] [info] Enabling extension base
+[2024-10-25 16:57:33.413] [modengine] [info] Enabled extension base
+[2024-10-25 16:57:33.413] [modengine] [info] Enabling extension mod_loader
+[2024-10-25 16:57:33.413] [modengine] [info] Installing mod location C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer
+[2024-10-25 16:57:33.413] [modengine] [info] Resolved mod path to C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer
+[2024-10-25 16:57:33.413] [modengine] [info] Installing mod location C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\mod
+[2024-10-25 16:57:33.413] [modengine] [info] Resolved mod path to C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\mod
+[2024-10-25 16:57:33.413] [modengine] [info] Enabled extension mod_loader
+[2024-10-25 16:57:33.448] [modengine] [info] Applied 3 hooks
+[2024-10-25 16:57:33.450] [modengine] [info] Starting worker thread
+[2024-10-25 16:59:41.166] [modengine] [info] Attempting to load global config at C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer\diste\ModEngine\modengine2\config.toml
+[2024-10-25 16:59:41.166] [modengine] [info] Attempting to load mod settings config at C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer\config_eldenringrandomizer.toml
+[2024-10-25 16:59:41.166] [modengine] [info] Local config loaded
+[2024-10-25 16:59:41.166] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-10-25 16:59:41.166] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-10-25 16:59:41.166] [modengine] [info] Main thread ID: 24340
+[2024-10-25 16:59:41.169] [modengine] [info] Enabling extension base
+[2024-10-25 16:59:41.169] [modengine] [info] Enabled extension base
+[2024-10-25 16:59:41.169] [modengine] [info] Enabling extension mod_loader
+[2024-10-25 16:59:41.169] [modengine] [info] Installing mod location C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer
+[2024-10-25 16:59:41.169] [modengine] [info] Resolved mod path to C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer
+[2024-10-25 16:59:41.169] [modengine] [info] Installing mod location C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\mod
+[2024-10-25 16:59:41.169] [modengine] [info] Resolved mod path to C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\mod
+[2024-10-25 16:59:41.169] [modengine] [info] Enabled extension mod_loader
+[2024-10-25 16:59:41.206] [modengine] [info] Applied 3 hooks
+[2024-10-25 16:59:41.209] [modengine] [info] Starting worker thread
+[2024-10-25 17:00:32.085] [modengine] [info] Destroying
+[2024-10-25 17:00:32.085] [modengine] [info] Destroying
+[2024-10-25 17:00:32.085] [modengine] [info] Destroying
+[2024-10-25 17:00:32.085] [modengine] [info] Destroying
+[2024-10-25 17:00:32.085] [modengine] [info] Destroying
+[2024-10-25 17:00:32.085] [modengine] [info] Destroying
+[2024-10-25 17:00:32.085] [modengine] [info] Destroying
+[2024-10-25 17:00:32.086] [modengine] [info] Destroying
+[2024-10-25 17:00:32.086] [modengine] [info] Destroying
+[2024-10-25 17:00:32.087] [modengine] [info] Destroying
+[2024-10-25 17:01:48.589] [modengine] [info] Attempting to load global config at C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer\diste\ModEngine\modengine2\config.toml
+[2024-10-25 17:01:48.589] [modengine] [info] Attempting to load mod settings config at C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer\config_eldenringrandomizer_dll.toml
+[2024-10-25 17:01:48.595] [modengine] [info] Local config loaded
+[2024-10-25 17:01:48.595] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-10-25 17:01:48.595] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-10-25 17:01:48.595] [modengine] [info] Main thread ID: 21824
+[2024-10-25 17:01:48.601] [modengine] [info] Loaded external DLL C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\SeamlessCoop\ersc.dll
+[2024-10-25 17:01:50.245] [modengine] [info] Enabling extension base
+[2024-10-25 17:01:50.245] [modengine] [info] Enabled extension base
+[2024-10-25 17:01:50.245] [modengine] [info] Enabling extension mod_loader
+[2024-10-25 17:01:50.245] [modengine] [info] Installing mod location C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer
+[2024-10-25 17:01:50.245] [modengine] [info] Resolved mod path to C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\randomizer
+[2024-10-25 17:01:50.245] [modengine] [info] Installing mod location C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\mod
+[2024-10-25 17:01:50.245] [modengine] [info] Resolved mod path to C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\mod
+[2024-10-25 17:01:50.245] [modengine] [info] Enabled extension mod_loader
+[2024-10-25 17:01:50.275] [modengine] [info] Applied 3 hooks
+[2024-10-25 17:01:50.280] [modengine] [info] Starting worker thread
