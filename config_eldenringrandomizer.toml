@@ -3,12 +3,12 @@
 # CONTENTS WILL BE AUTOMATICALLY OVERWRITTEN
 
 # Produced by Elden Ring Randomizer v0.10alpha8
-# <hash>8bbfae2482df53866584eded94919be9</hash>
+# <hash>e5a9d42009760aa6281d144b0a025458</hash>
 
 [modengine]
 debug = false
 external_dlls = [
-
+    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ELDEN RING\\Game\\SeamlessCoop\\ersc.dll",
 ]
 [extension.mod_loader]
 enabled = true

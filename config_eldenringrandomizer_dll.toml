@@ -1,2 +1,0 @@
-modengine = { debug = false, external_dlls = [ "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ELDEN RING\\Game\\SeamlessCoop\\ersc.dll" ] }
-extension = { mod_loader = { enabled = true, loose_params = false, mods = [ { enabled = true, name = "randomizer", path = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ELDEN RING\\Game\\randomizer" }, { enabled = true, name = "mod", path = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ELDEN RING\\Game\\mod" } ] } }
